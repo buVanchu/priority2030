@@ -1,0 +1,1 @@
+{"type": 6,"data": {"solar": ["V","A","W","%","Status"],"wind": ["V","A","W","%","Status"],"gen": ["V","A","W","%","Status"],"bat": ["V",null,null,null,"Status"],"1": ["V","A","W","%","Status"],"2": ["V","A","W","%","Status"],"3": ["V","A","W","%","Status"]}}
